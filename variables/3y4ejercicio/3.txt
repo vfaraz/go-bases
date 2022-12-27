@@ -1,0 +1,7 @@
+
+	var nombre string 	//var 1nombre string(el nombre empieza con numero)
+						//var apellido string(ok)
+	apellido := 6      	//1apellido := 6(el nombre empieza con numero)
+	var edad int        //var int edad(primero va el nombre luego el tipo)
+	var estaturaDeLaPersona int //var estatura de la persona int(el nombre no puede ir separado)
+						//var licencia_de_conducir = true(ok)

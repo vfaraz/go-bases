@@ -1,0 +1,5 @@
+var apellido string = "Gomez"   //ok
+var edad int = "35"             // un int y puso ""
+boolean := "false";             //sin punto y coma al final y false va sin ""
+var sueldo string = 45857.90    // es un float
+var nombre string = "Julián"    //ok

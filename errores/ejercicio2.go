@@ -19,7 +19,7 @@ var (
 
 func main() {
 	var salary int
-	salary = 10000
+	salary = 10001
 	_, err := CheckSalary(salary)
 
 	if errors.Is(err, MyError) {
